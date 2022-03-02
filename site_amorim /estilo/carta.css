@@ -1,0 +1,21 @@
+body{
+background-color: rgb(233, 207, 174);
+color:rgb(44, 0, 0);
+text-align: center;
+font-size:40px;
+}
+
+.btn {
+    width: 512px;
+    background-color: initial;
+    border: 3px #0c90ee solid;
+    color: white;
+    padding: 10px;
+    border-radius: 25px;
+    font-size: 25px;
+}
+
+.btn:hover {
+    background-color: #0c90ee;
+    color: #1a1a1a;
+}
